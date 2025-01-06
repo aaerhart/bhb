@@ -32,3 +32,16 @@ export default function RootLayout({
     </html>
   );
 }
+
+/*
+Home
+Shop
+  Shop In Store
+Sell
+  Make an Intake Appointment
+About Us
+  Our Team
+  FAQ
+Boho Outlet
+Contact
+*/
