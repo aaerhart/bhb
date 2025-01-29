@@ -5,7 +5,7 @@ import { Box, List, ListItem } from '@chakra-ui/react'
 export default function Footer() {
 
     return (
-        <Box position={'absolute'} bottom={'0px'} height={'312px'} width={'100vw'} display={'flex'} justifyContent={'space-around'} className={'footer-main'}>
+        <Box position={'relative'} bottom={'0vh'} height={'312px'} width={'100vw'} display={'flex'} justifyContent={'space-around'} className={'footer-main'}>
             <Box>
               <List.Root>
                 <ListItem>34 Blair Park Rd Suite 103,</ListItem>
